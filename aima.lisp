@@ -6,7 +6,7 @@
 
 ;;;; A minimal facility for defining systems of files
 
-(defparameter *aima-root* (truename "~/public_html/code/") ; <<<<<<<< Edit this <<<<<<
+(defparameter *aima-root* (truename "~/github/aima-lisp/") ; <<<<<<<< Edit this <<<<<<
   "The root directory where the code is stored.")
 
 (defparameter *aima-binary-type*
